@@ -5,9 +5,6 @@ import {
   DateCalculator,
 } from "./scripts.js";
 
-
-// Демонстрація використання
-
 // #1
 const exampleArray = [1, 2, 3, 4, 5];
 console.log(sumArray(exampleArray)); // 15
